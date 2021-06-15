@@ -30,7 +30,7 @@ let count = 0;
 let numb = 0;
 
 function pos(b) {
-    if (count <= 8) {
+    if (count <= 9) {
 
         if (numb === 'box') {
             box.innerHTML = b
